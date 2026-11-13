@@ -1,2 +1,2 @@
 ## Project Output
-[View Complete Output (PDF)] (time.pdf)
+[View Complete Output (PDF)](./time.pdf)
